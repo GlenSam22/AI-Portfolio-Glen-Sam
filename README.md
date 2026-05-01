@@ -1,4 +1,4 @@
-# Your Name - AI Portfolio
+# GlenSam - AI Portfolio
 
 ## 🎓 Program
 Applied AI and Robotics
@@ -99,6 +99,6 @@ This portfolio highlights my hands-on experience in Natural Language Processing 
 
 ## 📬 Contact
 
-Email: your-email@email.com  
-GitHub: https://github.com/YourName  
-LinkedIn: (optional)
+
+GitHub: https://github.com/GlenSam22
+LinkedIn:
